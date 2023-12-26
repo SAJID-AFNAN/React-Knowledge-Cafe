@@ -1,0 +1,58 @@
+[
+    {
+        "id": 12345,
+        "cover": "https://i.ibb.co/WcT0s9N/48-email-signature.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Penelope Quill",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "posted_date": "2023-04-10",
+        "reading_time": 15,
+        "hashtags": [
+            "#Adventure",
+            "#Mystery",
+            "#Thriller"
+        ]
+    },
+    {
+        "id": 67890,
+        "cover": "https://i.ibb.co/GJLpq3v/394-Digital-marketing-facebook-banner-template.jpg",
+        "title": "Quantum Chronicles",
+        "author": "Maximilian Cipher",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "posted_date": "2023-05-22",
+        "reading_time": 20,
+        "hashtags": [
+            "#SciFi",
+            "#Quantum",
+            "#TimeTravel"
+        ]
+    },
+    {
+        "id": 13579,
+        "cover": "https://i.ibb.co/vmx5Hr5/395-Digital-marketing-facebook-banner-template.jpg",
+        "title": "Whispers in the Shadows",
+        "author": "Seraphina Nightshade",
+        "author_img":  "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "posted_date": "2023-03-05",
+        "reading_time": 18,
+        "hashtags": [
+            "#Fantasy",
+            "#DarkMagic",
+            "#Intrigue"
+        ]
+    },
+    {
+        "id": 24680,
+        "cover": "https://i.ibb.co/SJ4cXg3/8499112.jpg",
+        "title": "Codebreakers' Dilemma",
+        "author": "Ethan Cipher",
+        "author_img":"https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "posted_date": "2023-06-15",
+        "reading_time": 22,
+        "hashtags": [
+            "#Mystery",
+            "#Codebreaking",
+            "#Suspense"
+        ]
+    }
+]
